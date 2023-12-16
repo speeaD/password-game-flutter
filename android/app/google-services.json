@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504675924553",
+    "project_id": "passwordgame-92eea",
+    "storage_bucket": "passwordgame-92eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504675924553:android:7637d6f7d7a41a866edd98",
+        "android_client_info": {
+          "package_name": "com.example.side_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbC_yZUSXtOWjJ5Xl_v13eARTDKgov288"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
